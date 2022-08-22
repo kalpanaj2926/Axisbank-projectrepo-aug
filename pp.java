@@ -4,6 +4,8 @@ int main()
     /input three numbers from user */
     printf("Enter three numbers: ");
     scanf(%d%d%d,&a ,&b,&c);
+
+THE END
     
     if (a>b && a>c)
        printf ("%d  is the largest.",a)
